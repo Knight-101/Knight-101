@@ -1,4 +1,5 @@
-# Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![](<img src="https://komarev.com/ghpvc/?username=Kinght-101&color=brightgreen" alt="watching_count" />)
+# Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 I'm a full-stack Web3 software developer who's as comfortable with smart contracts as I am with a smart casual dress code. I graduated from BITS Pilani, Goa, and I'm currently weaving my web at KriyaDEX. When I'm not busy turning coffee into code, you can find me diving into the world of DeFi or contributing to the SUI ecosystem.
 
