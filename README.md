@@ -26,6 +26,7 @@ I'm a full-stack Web3 software developer who's as comfortable with smart contrac
 <a href="https://github.com/Knight-101">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knight-101&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 <a href="https://github.com/Knight-101">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knight-101&theme=tokyonight" alt="mystreak"/>
 </a>
