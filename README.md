@@ -19,7 +19,6 @@ I'm a full-stack Web3 software developer who's as comfortable with smart contrac
 ![](https://img.shields.io/badge/Tool-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
