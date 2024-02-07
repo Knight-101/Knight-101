@@ -46,7 +46,6 @@ const Knight = {
         devOps: ["AWS", "Docker", "Nginx"],
         databases: ["MongoDB", "MySQL", "DynamoDB"],
     },
-    architecture: ["Single page applications"],
     currentProject: "Building trading infra with KriyaDEX",
     funFact: "to be or not be, a PTB ? that's the real question"
 }
