@@ -1,6 +1,8 @@
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-I'm a full-stack Web3 software developer who's as comfortable with smart contracts as I am with a smart casual dress code. I graduated from BITS Pilani, Goa, and I'm currently weaving my web at KriyaDEX. When I'm not busy turning coffee into code, you can find me diving into the world of DeFi or contributing to the SUI ecosystem.
+i build stuff where code meets money. previously shipped DeFi stuff at Kriya on Sui — AMMs, liquidity vaults, the works. now at NUS, going deeper into quant trading, financial tech, and AI. usually down some rabbit hole about how markets work, how protocols move money, or whether my trading bot actually found an edge.
+
+BITS Pilani → Kriya → NUS → figuring out the next side quest.
 
 ## 🔧 Technologies & Tools
 
@@ -30,22 +32,35 @@ I'm a full-stack Web3 software developer who's as comfortable with smart contrac
 
 ```javascript
 const Knight = {
-    code: ["Move", "JavaScript", "Python", "Rust", "Solidity", "TypeScript"],
-    askMeAbout: ["web3 dev", "defi", "blockchain", "SUI ecosystem"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "NextJS"],
-            css: ["CSS"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django REST"],
-            rust: ["Rust"],
-            move: ["Move"]
-        },
-        devOps: ["AWS", "Docker", "Nginx"],
-        databases: ["MongoDB", "MySQL", "DynamoDB"],
-    },
-    currentProject: "Building trading infra with KriyaDEX",
-    funFact: "to be or not be, a PTB ? that's the real question"
-}
+  name: "Sanskar",
+  lore: ["BITS Pilani", "ex-Kriya", "NUS", "Trader"],
+
+  code: ["Python", "TypeScript", "JavaScript", "Move", "Solidity", "Rust"],
+
+  building: [
+    "DeFi infra",
+    "trading systems",
+    "AI tools for finance"
+  ],
+
+  rabbitHoles: [
+    "AMMs & liquidity",
+    "market microstructure",
+    "intents, solvers & RFQs",
+    "fancy trading algorithms"
+    "stablecoins & payments"
+  ],
+
+  stack: {
+    apps: ["React", "Next.js", "Node.js", "FastAPI"],
+    infra: ["AWS", "Docker", "Nginx"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL"]
+  },
+
+  sideQuests: [
+    "teaching bots to trade",
+    "making financial research less painful"
+  ],
+
+  funFact: "to be or not to be, a PTB? that's the real question"
+};
