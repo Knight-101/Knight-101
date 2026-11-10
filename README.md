@@ -1,6 +1,9 @@
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-i build stuff where code meets money. previously shipped DeFi stuff at Kriya on Sui — AMMs, liquidity vaults, the works. now at NUS, going deeper into quant trading, financial tech, and AI. usually down some rabbit hole about how markets work, how protocols move money, or whether my trading bot actually found an edge.
+i build stuff where code meets money. 
+previously shipped DeFi stuff at Kriya on Sui — AMMs, liquidity vaults, the works. 
+now at NUS, going deeper into quant trading, financial tech, and AI. 
+usually down some rabbit hole about how markets work, how protocols move money, or whether my trading bot actually found an edge.
 
 BITS Pilani → Kriya → NUS → figuring out the next side quest.
 
